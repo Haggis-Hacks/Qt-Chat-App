@@ -1,7 +1,11 @@
 # Qt Chat App
+
 A lightweight chat system using Qt and TCP sockets for real-time messaging. This project consists of two applications:
   1. Server App: A Qt-based C++ server that handles message distribution.
   2. Messenger GUI: A QML-based front-end with a C++ model for communication.
+
+Icons Attribute:
+  <a href="https://www.flaticon.com/free-icons/send" title="send icons">Send icons created by Becris - Flaticon</a>
 
 Features:
   Send and receive messages in real-time
