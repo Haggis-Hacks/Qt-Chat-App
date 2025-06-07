@@ -1,3 +1,6 @@
+ChatGUI/build
+ChatServer/build
+
 # C++ objects and libs
 *.slo
 *.lo
